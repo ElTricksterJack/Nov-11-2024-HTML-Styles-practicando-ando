@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>El Style en HTML con Anime</title><!--Solo dire lo importante-->
+</head>
+<style>
+    h1 {color:white; text-align:center}
+    h2 {color:white; text-align:center}
+    h3 {color:white; text-align:center}
+    p {color:white; text-align:center}
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+</style><!--Con esto hasemos tangs para que siempre se escriba en blanco y se centrar la imagen-->
+<body style="background-color:black;"><!--Con esto hasemos el fondo negro-->
+<img src="imagenes/5a3f53ef373de2555c7ec5e90dac90d1.jpg" alt="Hakari" style="border:5px solid rgb(232, 9, 213)"  width="500" height="230"><!--Traemos una imagen-->
+<h2>Parte 1-Que es</h2><!--Aparesemos el texto-->
+<h3>Que es el style?</h3>
+<p>El style es un es un atributo, que se le puede añadir a los elementos de una pagina de HTML con el puedes controlar cosas como el estilo de letras, colores, tamaños, contornos, etc.</p><!--Y explicamos lo que es el style-->
+</body>
+</html>
