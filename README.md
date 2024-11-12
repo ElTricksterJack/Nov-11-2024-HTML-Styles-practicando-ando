@@ -36,3 +36,16 @@
 # punto 7
 ![image](https://github.com/user-attachments/assets/c0cc5336-caf6-4d58-ad81-c0559c745a65)
 ![image](https://github.com/user-attachments/assets/f5490d2e-32fb-4233-ad4d-cf2a925c1a97)
+
+# punto 8
+![image](https://github.com/user-attachments/assets/448a4aa8-7384-4978-be66-28f3d86ebe36)
+![image](https://github.com/user-attachments/assets/2642035a-2a7a-4d3d-accc-3860bec34ed9)
+![image](https://github.com/user-attachments/assets/11c0a5b4-9e70-435b-a8c5-edb807562a0f)
+![image](https://github.com/user-attachments/assets/c55681e1-05e5-4094-b0ba-aa17d4d4d456)
+
+# punto
+# punto
+# punto
+# punto
+# punto
+
